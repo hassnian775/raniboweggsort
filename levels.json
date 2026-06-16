@@ -1,161 +1,45 @@
 [
-    {
-        "characters": [
-            "S",
-            "U",
-            "J",
-            "B",
-            "U",
-            "Z",
-            "K",
-            "L"
-        ],
-        "target_word": [
-            "B",
-            "U",
-            "S"
-        ]
-    },
-    {
-        "characters": [
-            "S",
-            "Z",
-            "R",
-            "O",
-            "E",
-            "Y",
-            "Q",
-            "H",
-            "B",
-            "S",
-            "U",
-            "L"
-        ],
-        "target_word": [
-            "H",
-            "O",
-            "R",
-            "S",
-            "E"
-        ]
-    },
-    {
-        "characters": [
-            "F",
-            "E",
-            "C",
-            "A",
-            "R",
-            "T",
-            "U",
-            "Z",
-            "E",
-            "H",
-            "R",
-            "W",
-            "H",
-            "J"
-        ],
-        "target_word": [
-            "C",
-            "H",
-            "E",
-            "E",
-            "T",
-            "A",
-            "H"
-        ]
-    },
-    {
-        "characters": [
-            "T",
-            "U",
-            "R",
-            "B",
-            "U",
-            "Z",
-            "E",
-            "L",
-            "T",
-            "J",
-            "F",
-            "C",
-            "Y",
-            "M",
-            "Q",
-            "D"
-        ],
-        "target_word": [
-            "B",
-            "U",
-            "T",
-            "T",
-            "E",
-            "R",
-            "F",
-            "L",
-            "Y"
-        ]
-    },
-     {
-        "characters": [
-            "S",
-            "C",
-            "J",
-            "B",
-            "A",
-            "Z",
-            "K",
-            "R"
-        ],
-        "target_word": [
-            "C",
-            "A",
-            "R"
-        ]
-    },
-{
-        "characters": [
-            "B",
-            "Z",
-            "R",
-            "T",
-            "E",
-            "Y",
-            "Q",
-            "A",
-            "B",
-            "S",
-            "U",
-            "L"
-        ],
-        "target_word": [
-            "T",
-            "A",
-            "B",
-            "L",
-            "E"
-        ]
-    },
-    {
-        "characters": [
-            "B",
-            "Z",
-            "R",
-            "T",
-            "E",
-            "Y",
-            "Q",
-            "E",
-            "B",
-            "S"
+  {
+    "tubes": [
+      ["red", "blue", "red", "blue"],
+      ["blue", "red", "blue", "red"],
+      []
+    ]
+  },
 
-        ],
-        "target_word": [
-            "T",
-            "R",
-            "E",
-            "E"
-        ]
-    }
+  {
+    "tubes": [
+      ["red", "green", "blue", "red"],
+      ["blue", "red", "green", "green"],
+      ["blue", "green", "red", "blue"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "yellow", "blue"],
+      ["purple", "blue", "red", "yellow"],
+      ["green", "purple", "blue", "red"],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "yellow", "blue"],
+      ["purple", "orange", "red", "yellow"],
+      ["green", "purple", "blue", "orange"],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
+      ["orange", "blue", "red", "orange"],
+      [],
+      [],
+      []
+    ]
+  }
 ]

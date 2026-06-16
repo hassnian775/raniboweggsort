@@ -84,19 +84,6 @@
     ]
   },
 
-  {
-    "tubes": [
-      ["red", "green", "blue", "yellow"],
-      ["purple", "orange", "cyan", "pink"],
-      ["green", "purple", "yellow", "red"],
-      ["orange", "cyan", "pink", "blue"],
-      ["yellow", "red", "green", "purple"],
-      ["cyan", "pink", "orange", "green"],
-      ["blue", "yellow", "red", "cyan"],
-      ["pink", "blue", "purple", "orange"],
-      []
-    ]
-  },
 
   {
     "tubes": [
@@ -128,19 +115,7 @@
     ]
   },
 
-  {
-    "tubes": [
-      ["red", "green", "blue", "yellow"],
-      ["purple", "orange", "cyan", "pink"],
-      ["brown", "gray", "red", "green"],
-      ["blue", "yellow", "purple", "orange"],
-      ["cyan", "pink", "brown", "gray"],
-      ["green", "red", "orange", "blue"],
-      ["yellow", "purple", "gray", "cyan"],
-      ["pink", "brown", "green", "red"],
-      ["orange", "blue", "yellow", "purple"]
-    ]
-  },
+  
 
   {
     "tubes": [
@@ -244,20 +219,6 @@
       ["pink", "brown", "gray", "red"],
       [],
       []
-    ]
-  },
-
-  {
-    "tubes": [
-      ["red", "green", "blue", "yellow"],
-      ["purple", "orange", "cyan", "pink"],
-      ["brown", "gray", "lime", "teal"],
-      ["navy", "mint", "red", "green"],
-      ["blue", "yellow", "purple", "orange"],
-      ["cyan", "pink", "brown", "gray"],
-      ["lime", "teal", "navy", "mint"],
-      ["green", "red", "orange", "blue"],
-      ["yellow", "purple", "cyan", "pink"]
     ]
   },
 

@@ -41,5 +41,238 @@
       [],
       []
     ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "yellow", "orange"],
+      ["blue", "purple", "red", "green"],
+      ["yellow", "orange", "blue", "purple"],
+      ["green", "red", "purple", "blue"],
+      ["orange", "yellow", "green", "red"],
+      ["purple", "blue", "orange", "yellow"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "yellow", "blue"],
+      ["orange", "purple", "cyan", "red"],
+      ["green", "cyan", "orange", "yellow"],
+      ["blue", "red", "purple", "green"],
+      ["yellow", "orange", "blue", "cyan"],
+      ["purple", "green", "red", "orange"],
+      ["cyan", "yellow", "green", "purple"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "red"],
+      ["green", "yellow", "purple", "blue"],
+      ["orange", "cyan", "red", "green"],
+      ["blue", "purple", "yellow", "orange"],
+      ["cyan", "red", "green", "purple"],
+      ["yellow", "blue", "orange", "cyan"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["green", "purple", "yellow", "red"],
+      ["orange", "cyan", "pink", "blue"],
+      ["yellow", "red", "green", "purple"],
+      ["cyan", "pink", "orange", "green"],
+      ["blue", "yellow", "red", "cyan"],
+      ["pink", "blue", "purple", "orange"],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["green", "yellow", "purple", "red"],
+      ["orange", "pink", "red", "blue"],
+      ["cyan", "purple", "green", "orange"],
+      ["yellow", "red", "pink", "cyan"],
+      ["blue", "orange", "cyan", "green"],
+      ["pink", "blue", "yellow", "purple"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["brown", "red", "green", "blue"],
+      ["yellow", "purple", "orange", "cyan"],
+      ["pink", "brown", "red", "green"],
+      ["blue", "yellow", "purple", "orange"],
+      ["cyan", "pink", "brown", "red"],
+      ["green", "blue", "yellow", "purple"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["brown", "gray", "red", "green"],
+      ["blue", "yellow", "purple", "orange"],
+      ["cyan", "pink", "brown", "gray"],
+      ["green", "red", "orange", "blue"],
+      ["yellow", "purple", "gray", "cyan"],
+      ["pink", "brown", "green", "red"],
+      ["orange", "blue", "yellow", "purple"]
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "blue", "green", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["brown", "gray", "red", "blue"],
+      ["green", "yellow", "purple", "orange"],
+      ["cyan", "pink", "brown", "gray"],
+      ["blue", "green", "yellow", "red"],
+      ["orange", "purple", "gray", "cyan"],
+      ["pink", "brown", "red", "green"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "purple", "green", "yellow"],
+      ["blue", "orange", "cyan", "pink"],
+      ["brown", "gray", "red", "purple"],
+      ["green", "yellow", "blue", "orange"],
+      ["cyan", "pink", "brown", "gray"],
+      ["purple", "green", "yellow", "red"],
+      ["orange", "blue", "gray", "cyan"],
+      ["pink", "brown", "red", "green"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["brown", "gray", "lime", "red"],
+      ["green", "blue", "yellow", "purple"],
+      ["orange", "cyan", "pink", "brown"],
+      ["gray", "lime", "red", "green"],
+      ["blue", "yellow", "purple", "orange"],
+      ["cyan", "pink", "brown", "gray"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["brown", "gray", "lime", "teal"],
+      ["red", "purple", "green", "orange"],
+      ["blue", "cyan", "yellow", "pink"],
+      ["brown", "gray", "lime", "teal"],
+      ["orange", "red", "purple", "green"],
+      ["cyan", "blue", "pink", "yellow"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "purple", "blue", "yellow"],
+      ["green", "orange", "cyan", "pink"],
+      ["brown", "gray", "lime", "teal"],
+      ["yellow", "red", "purple", "green"],
+      ["orange", "cyan", "pink", "brown"],
+      ["gray", "lime", "teal", "blue"],
+      ["purple", "green", "yellow", "orange"],
+      ["cyan", "pink", "brown", "red"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["brown", "gray", "lime", "teal"],
+      ["navy", "red", "green", "blue"],
+      ["yellow", "purple", "orange", "cyan"],
+      ["pink", "brown", "gray", "lime"],
+      ["teal", "navy", "red", "green"],
+      ["blue", "yellow", "purple", "orange"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "purple", "blue", "yellow"],
+      ["green", "orange", "cyan", "pink"],
+      ["brown", "gray", "lime", "teal"],
+      ["navy", "red", "purple", "green"],
+      ["orange", "cyan", "pink", "brown"],
+      ["gray", "lime", "teal", "navy"],
+      ["yellow", "green", "orange", "cyan"],
+      ["pink", "brown", "gray", "red"],
+      [],
+      []
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "green", "blue", "yellow"],
+      ["purple", "orange", "cyan", "pink"],
+      ["brown", "gray", "lime", "teal"],
+      ["navy", "mint", "red", "green"],
+      ["blue", "yellow", "purple", "orange"],
+      ["cyan", "pink", "brown", "gray"],
+      ["lime", "teal", "navy", "mint"],
+      ["green", "red", "orange", "blue"],
+      ["yellow", "purple", "cyan", "pink"]
+    ]
+  },
+
+  {
+    "tubes": [
+      ["red", "purple", "green", "yellow"],
+      ["blue", "orange", "cyan", "pink"],
+      ["brown", "gray", "lime", "teal"],
+      ["navy", "mint", "red", "purple"],
+      ["green", "yellow", "blue", "orange"],
+      ["cyan", "pink", "brown", "gray"],
+      ["lime", "teal", "navy", "mint"],
+      ["purple", "green", "yellow", "blue"],
+      [],
+      []
+    ]
   }
 ]

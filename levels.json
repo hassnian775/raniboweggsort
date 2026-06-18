@@ -20,10 +20,10 @@
   {
     "tubes": [
       ["red", "green", "yellow", "blue"],
-      ["purple", "blue", "red", "yellow"],
-      ["green", "purple", "blue", "red"],
-      ["yellow", "green", "purple", "blue"],
-      ["red", "yellow", "green", "purple"],
+      ["dark_purple", "blue", "red", "yellow"],
+      ["green", "dark_purple", "blue", "red"],
+      ["yellow", "green", "dark_purple", "blue"],
+      ["red", "yellow", "green", "dark_purple"],
       [],
       []
     ]
@@ -32,10 +32,10 @@
   {
     "tubes": [
       ["red", "green", "yellow", "blue"],
-      ["purple", "orange", "red", "yellow"],
-      ["green", "purple", "blue", "orange"],
-      ["yellow", "green", "purple", "blue"],
-      ["red", "yellow", "green", "purple"],
+      ["dark_purple", "orange", "red", "yellow"],
+      ["green", "dark_purple", "blue", "orange"],
+      ["yellow", "green", "dark_purple", "blue"],
+      ["red", "yellow", "green", "dark_purple"],
       ["orange", "blue", "red", "orange"],
       [],
       [],

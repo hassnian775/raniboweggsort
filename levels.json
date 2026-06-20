@@ -24,13 +24,13 @@
     ],
     
   [
-      ["red", "green", "yellow", "blue"],
+      ["red", "green", "blue"],
       ["purple", "orange", "red", "yellow"],
       ["green", "purple", "blue", "orange"],
       ["yellow", "green", "purple", "blue"],
       ["red", "yellow", "green", "purple"],
-      ["orange", "blue", "red", "orange"],
-      [],
+      ["orange", "blue"],
+      ["red", "orange", "yellow"],
       [],
       []
     ]

@@ -1,53 +1,38 @@
 [
-  {
-    "tubes": [
+  [
       ["red", "blue", "red", "blue"],
       ["blue", "red", "blue", "red"],
       []
-    ]
-  },
+    ],
 
-  {
-    "tubes": [
+    [
       ["red", "green", "blue", "red"],
       ["blue", "red", "green", "green"],
       ["blue", "green", "red", "blue"],
       [],
       []
-    ]
-  },
+    ],
 
-  {
-    "tubes": [
-      ["red", "green", "yellow", "blue"],
-      ["dark_purple", "blue", "red", "yellow"],
-      ["green", "dark_purple", "blue", "red"],
-      ["yellow", "green", "dark_purple", "blue"],
-      ["red", "yellow", "green", "dark_purple"],
+  [
+    ["red", "green", "yellow", "blue"],
+      ["purple", "blue", "red", "yellow"],
+      ["green", "purple", "blue", "red"],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
       [],
       []
-    ]
-  },
-
-  {
-    "tubes": [
+    ],
+    
+  [
       ["red", "green", "yellow", "blue"],
-      ["dark_purple", "orange", "red", "yellow"],
-      ["green", "dark_purple", "blue", "orange"],
-      ["yellow", "green", "dark_purple", "blue"],
-      ["red", "yellow", "green", "dark_purple"],
-      ["orange", "blue", "red", "orange"],
-      ["red", "green", "yellow", "blue"],
-      ["dark_purple", "orange", "red", "yellow"],
-      ["green", "dark_purple", "blue", "orange"],
-      ["yellow", "green", "dark_purple", "blue"],
-      ["red", "yellow", "green", "dark_purple"],
+      ["purple", "orange", "red", "yellow"],
+      ["green", "purple", "blue", "orange"],
+      ["yellow", "green", "purple", "blue"],
+      ["red", "yellow", "green", "purple"],
       ["orange", "blue", "red", "orange"],
       [],
       [],
-      [],
-       [],
       []
     ]
-  }
+  
 ]
